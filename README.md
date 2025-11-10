@@ -6,5 +6,5 @@ Building a model that predicts biomass using the provided pasture images
 Team
 
     Robert Koor - R4brt
-    Anneli Oro - 
+    Anneli Oro - anneli-oro
     

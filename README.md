@@ -15,8 +15,8 @@ Model shold be able to predict 5 biomass components (Dry green vegetation (exclu
 
 # contents of the repository
 
-GROUP_D6_report.pdf - Our project report. Business and data understanding and project plan
-TODO - mudel
+GROUP_D6_report.pdf - Our project report. Business and data understanding and project plan<br/>
+Main branch contains final version of our model, other models can be found on sepparate branches
 
 # how to use our code
 TODO

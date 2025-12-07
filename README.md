@@ -14,7 +14,9 @@ Build a model that can help farmers to better estimate the amount of feed availa
 Model shold be able to predict 5 biomass components (Dry green vegetation (excluding clover), Dry dead material, Dry clover biomass, Green dry matter (GDM), Total dry biomass) based on pasture images
 
 # contents of the repository
-TODO
+
+GROUP_D6_report.pdf - Our project report. Business and data understanding and project plan
+TODO - mudel
 
 # how to use our code
 TODO
